@@ -5,7 +5,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Bienvenue dans l'application ReactNative de AKARE sarl</Text>
+        <Text>Bienvenue dans l'application ReactNative</Text>
       </View>
     );
   }
