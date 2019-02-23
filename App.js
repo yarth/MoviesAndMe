@@ -1,6 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import Search from './Components/Search'
+import Testblock from './Components/Testblock'
 
 
 export default class App extends React.Component {
