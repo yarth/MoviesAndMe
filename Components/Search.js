@@ -13,8 +13,6 @@ class Search extends React.Component {
   }
 }
 
-// Components/Search.js
-
 const styles = StyleSheet.create({
   textinput: {
     marginLeft: 5,
